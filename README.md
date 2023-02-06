@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&vCenter=true&width=435&height=30&lines=Hi+there!;I'm+Francisco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&vCenter=true&width=435&height=20&lines=Hi+there!;I'm+Francisco)](https://git.io/typing-svg)
 
 ### 👩‍💻 About Me
 As a Software Engineer with a strong passion for technology, I am always striving to expand my knowledge and skillset. I am eager to take on a new and challenging project that will not only allow me to further grow professionally, but also make a meaningful impact and contribution to the team.
