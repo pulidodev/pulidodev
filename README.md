@@ -1,9 +1,4 @@
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there;I'm+Francisco">
-    </img>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=35&lines=Hi+there;I'm+Francisco)](https://git.io/typing-svg)
 
 #### 👩‍💻 About Me
 As a Software Engineer with a strong passion for technology, I am always striving to expand my knowledge and skillset. I am eager to take on a new and challenging project that will not only allow me to further grow professionally, but also make a meaningful impact and contribution to the team.
