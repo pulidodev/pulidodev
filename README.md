@@ -3,7 +3,7 @@
 #### 👩‍💻 About Me:
 As a Software Engineer with a strong passion for technology, I am always striving to expand my knowledge and skillset. I am eager to take on a new and challenging project that will not only allow me to further grow professionally, but also make a meaningful impact and contribution to the team.
 
-#### 🛠 Some tools I work with:
+#### 🛠 Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,html,css,js&perline=5&theme=light)](https://github.com/pulidodev)
     
 #### 🔗 Contact:
