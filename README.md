@@ -6,12 +6,5 @@ As a Software Engineer with a strong passion for technology, I am always strivin
 #### 🛠 Some tools I work with:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,html,css,js&perline=5&theme=light)](https://github.com/pulidodev)
     
-#### 🔗 My Links:
-<div style="display: inline-block;">
-  <a href="https://www.linkedin.com/in/pulidodev">
-    <img style="margin-right: 5px;" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/pulidodev">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
-  </a>
-</div>
+#### 🔗 Contact:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pulidodev)
