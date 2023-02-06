@@ -5,10 +5,10 @@
   </a>
 </p>
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 As a Software Engineer with a strong passion for technology, I am always striving to expand my knowledge and skillset. I am eager to take on a new and challenging project that will not only allow me to further grow professionally, but also make a meaningful impact and contribution to the team.
 
-## 🛠 Tools
+### 🛠 Tools
 <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"
             alt="Java" width="50" height="50" />&nbsp;
@@ -26,7 +26,7 @@ As a Software Engineer with a strong passion for technology, I am always strivin
             title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
     </div>
     
-## 🔗 Links
+### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/pulidodev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulidodev)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pulidodev)
