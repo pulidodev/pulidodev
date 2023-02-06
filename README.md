@@ -8,11 +8,9 @@ As a Software Engineer with a strong passion for technology, I am always strivin
     
 #### 🔗 My Links:
 <div style="display: inline-block; margin-right: 10px;">
-  <a href="https://www.linkedin.com/in/pulidodev">
+  <a style="margin-right: 10px;" href="https://www.linkedin.com/in/pulidodev">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
-</div>
-<div style="display: inline-block; margin-right: 10px;">
   <a href="https://twitter.com/pulidodev">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
   </a>
