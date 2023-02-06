@@ -18,7 +18,7 @@ I am always striving to expand my knowledge and skillset. I am eager to take on 
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS"
             width="50" height="50" />&nbsp;&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-            title="JavaScript" alt="JavaScript" width="40" height="40" />
+            title="JavaScript" alt="JavaScript" width="50" height="50" />
     </div>
     
 #### 🔗 My Links
