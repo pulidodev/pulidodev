@@ -8,5 +8,4 @@ As a Software Engineer with a strong passion for technology, I am always strivin
     
 #### 🔗 My Links:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pulidodev)
-
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/pulidodev)
